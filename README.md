@@ -1,73 +1,67 @@
-#PittikCraft V 1.0 Mod Paketi @rootsenpai
-PittikCraft Mod Paketi
-🎮 Minecraft Sürümü: 1.16.5
-🌟 Öne Çıkan Özellikler:
+# **PittikCraft Mod Paketi**  
+🎮 **Minecraft Sürümü:** 1.16.5  
+🌟 **Öne Çıkan Özellikler:**  
+- **Optimize Performans:** Düşük sistemlerde bile sorunsuz oyun deneyimi.  
+- **Zengin Mod Koleksiyonu:** Keşif, yapım, macera ve daha fazlası!  
+- **Hazır Sunucu Dosyaları:** Kolay çok oyunculu kurulumu için sunucu dosyaları dahil.  
 
-Optimize Performans: Düşük sistemlerde bile sorunsuz oyun deneyimi.
+---
 
-Zengin Mod Koleksiyonu: Keşif, yapım, macera ve daha fazlası!
+## **Kurulum Rehberi**  
 
-Hazır Sunucu Dosyaları: Kolay çok oyunculu kurulumu için sunucu dosyaları dahil.
+### **1. İstemci Kurulumu (Launcher)**  
+PittikCraft Mod Paketini Minecraft istemcisine kurmak için şu adımları izleyin:  
 
-Kurulum Rehberi
-1. İstemci Kurulumu (Launcher)
-PittikCraft Mod Paketini Minecraft istemcisine kurmak için şu adımları izleyin:
+1. **forge-1.16.5-36.2.42-installer** dosyasını indirin ve çalıştırın.  
+2. **"Install Client"** seçeneğini seçin ve kurulumu tamamlayın.  
+3. Minecraft'ı Forge profili ile başlatın ve ana menüye gelene kadar bekleyin. Ardından oyunu kapatın.  
+4. Verilen klasördeki **"config"**, **"mods"** ve **"pittikcraftmenu"** klasörlerini **".minecraft"** dizinine kopyalayın.  
+5. Minecraft'ı tekrar Forge profili ile başlatın.  
 
-forge-1.16.5-36.2.42-installer dosyasını indirin ve çalıştırın.
+**Not:** Eğer **"FML Loader"** hatası alırsanız, **"Ana Menüye Devam Et"** seçeneğine tıklayın. Bu hata kritik değildir ve oyunu etkilemez.  
 
-"Install Client" seçeneğini seçin ve kurulumu tamamlayın.
+---
 
-Minecraft'ı Forge profili ile başlatın ve ana menüye gelene kadar bekleyin. Ardından oyunu kapatın.
+### **2. Sunucu Kurulumu**  
+PittikCraft sunucusunu kurmak için şu adımları izleyin:  
 
-Verilen klasördeki "config", "mods" ve "pittikcraftmenu" klasörlerini ".minecraft" dizinine kopyalayın.
+1. **start.bat** dosyasını çalıştırın. Sunucu otomatik olarak gerekli dosyaları kuracaktır.  
+2. **Java 8**'in yüklü olduğundan emin olun. Eğer yüklü değilse, verilen **"OpenJDK8.msi"** dosyasını kullanarak kurun.  
+3. Eğer Java farklı bir dizine yüklendiyse, **start.bat** dosyasını düzenleyerek Java yolunu güncelleyin:  
+   ```bash
+   "C:\Program Files\Eclipse Adoptium\jdk-8.0.442.6-hotspot\bin\java.exe"
+## Sunucu Optimizasyonu  
 
-Minecraft'ı tekrar Forge profili ile başlatın.
+Sunucu, en iyi performans için optimize edilmiştir ve çöp toplayıcı özelliği devre dışı bırakılmıştır.  
 
-Not: Eğer "FML Loader" hatası alırsanız, "Ana Menüye Devam Et" seçeneğine tıklayın. Bu hata kritik değildir ve oyunu etkilemez.
+## Güvenlik Özelliği  
 
-2. Sunucu Kurulumu
-PittikCraft sunucusunu kurmak için şu adımları izleyin:
+Çevrimdışı modda oynayan oyuncular için **kayıt/giriş sistemi** eklenmiştir.  
 
-start.bat dosyasını çalıştırın. Sunucu otomatik olarak gerekli dosyaları kuracaktır.
+- Bu sistem **sunucu tarafında çalışır ve atlatılamaz**, böylece hesabınız güvende kalır.  
 
-Java 8'in yüklü olduğundan emin olun. Eğer yüklü değilse, verilen "OpenJDK8.msi" dosyasını kullanarak kurun.
+## Öne Çıkan Modlar  
 
-Eğer Java farklı bir dizine yüklendiyse, start.bat dosyasını düzenleyerek Java yolunu güncelleyin:
+PittikCraft'ta bulunan bazı öne çıkan modlar:  
 
-Copy
-"C:\Program Files\Eclipse Adoptium\jdk-8.0.442.6-hotspot\bin\java.exe"  
-Sunucu, en iyi performans için optimize edilmiştir ve çöp toplayıcı özelliği devre dışı bırakılmıştır.
+- **Ice and Fire** → Ejderhalar ve mitolojik yaratıklar.  
+- **MineColonies** → Kendi kasabanızı kurun ve yönetin.  
+- **Twilight Forest** → Yeni bir boyut ve keşfedilecek zindanlar.  
+- **Waystones** → Kolay seyahat için ışınlanma noktaları.  
+- **Sophisticated Backpacks** → Gelişmiş depolama çözümleri.  
+- **Xaero’s Minimap** → Oyun içi harita ve minimap sistemi.  
 
-Güvenlik Özelliği:
+📂 **Tüm modlar "mods" klasöründe bulunmaktadır.**  
 
-Çevrimdışı modda oynayan oyuncular için kayıt/giriş sistemi eklenmiştir.
+## Sistem Gereksinimleri  
 
-Bu sistem sunucu tarafında çalışır ve atlatılamaz, böylece hesabınız güvende kalır.
+🖥 **Minimum:** 4 GB RAM, orta seviye CPU & GPU.  
+🚀 **Önerilen:** 6-8 GB RAM, daha iyi performans için SSD.  
 
-Öne Çıkan Modlar
-PittikCraft'ta bulunan bazı öne çıkan modlar:
+## Destek & İletişim  
 
-Ice and Fire: Ejderhalar ve mitolojik yaratıklar.
+Mod istekleri, hata bildirimleri veya genel destek için **Discord** üzerinden bana ulaşabilirsiniz:  
 
-MineColonies: Kendi kasabanızı kurun ve yönetin.
+📞 **Discord Kullanıcı Adı:** `rootsenpai`  
 
-Twilight Forest: Yeni bir boyut ve keşfedilecek zindanlar.
-
-Waystones: Kolay seyahat için ışınlanma noktaları.
-
-Sophisticated Backpacks: Gelişmiş depolama çözümleri.
-
-Xaero’s Minimap: Oyun içi harita ve minimap sistemi.
-
-Tüm modlar "mods" klasöründe bulunmaktadır.
-
-Sistem Gereksinimleri
-Minimum: 4 GB RAM, orta seviye CPU & GPU.
-
-Önerilen: 6-8 GB RAM, daha iyi performans için SSD.
-
-Destek & İletişim
-Mod istekleri, hata bildirimleri veya genel destek için Discord üzerinden bana ulaşabilirsiniz:
-Discord Kullanıcı Adı: rootsenpai
-
-PittikCraft ile maceranızda iyi eğlenceler! 🚀
+🎮 PittikCraft ile maceranızda iyi eğlenceler! 🚀  
